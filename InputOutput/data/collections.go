@@ -12,7 +12,6 @@ func init(){
     Countries[1] = "Japan"
     Countries[2] = "USA"
 
-    qty = len(Countries)
 
     fmt.Println("Countries saved")
 }
