@@ -1,0 +1,3 @@
+Original message: Hello from a file
+ 
+ I am enjoying golang
