@@ -59,6 +59,6 @@ func (s *Square) My_Print() {
 }
 
 func main () {
-    square := NewSquare(4, [2]int{0, 0})
+    square := NewSquare(4, [2]int{3, 0})
     square.My_Print()
 }
